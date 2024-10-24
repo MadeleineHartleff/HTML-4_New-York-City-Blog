@@ -6,6 +6,6 @@ features of the city.
 
 ## Credits
 This project is based on an exercise from 
-Codecademy.
+<a href="https://www.codecademy.com/learn/learn-html-semantic-html">Codecademy</a>.
 While the task description and style.css file were provided by Codecademy, the HTML file and its structure 
 were fully implemented by me.
